@@ -7,7 +7,7 @@ gem "fake_person", "~> 1.0"
 
 ```
 
-```
+```ruby
 person = FakePerson.new
 
 person.first_name
